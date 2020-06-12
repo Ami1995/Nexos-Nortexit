@@ -278,15 +278,16 @@ summary(enfs)  # Multiple R-squared:  0.7568
 
 # Norte
 cor(norte$casos_acum_covid, norte$transf_total)  # 0.4720195
-# plot(norte$casos_acum_covid, norte$transf_total)
+plot(norte$casos_acum_covid, norte$transf_total)
 lm(casos_acum_covid ~ transf_total, data = norte)
 tn <- lm(casos_acum_covid ~ transf_total, data = norte)
+abline(tn)
 summary(tn) # Multiple R-squared:  0.2228
 
 
 # Sur
 cor(sur$casos_acum_covid, sur$transf_total)  # 0.8227108
-# plot(sur$casos_acum_covid, sur$transf_total)
+plot(sur$casos_acum_covid, sur$transf_total)
 lm(casos_acum_covid ~ transf_total, data = sur)
 ts <- lm(casos_acum_covid ~ transf_total, data = sur)
 summary(ts)  # Multiple R-squared:  0.6769 
