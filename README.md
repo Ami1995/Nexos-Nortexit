@@ -1,8 +1,5 @@
-<h1 class='block'> #Nortexit: ¿Por qué no le calas? <span class='badge badge-flexible'>1</span></h1> 
-
-
-Nexos
-Luis Mendoza Ovando y yo.
+<h1 class='block'> #Nortexit: ¿Por qué no le calas? <span class='badge badge-flexible'> </span></h1> 
+<h2 class='block'> Luis Mendoza Ovando y Ami G. Sosa Vera <span class='badge badge-flexible'> </span></h2>
 
 Los reclamos airados de los gobernadores del norte del país durante la pandemia nos harían pensar que los estados que recaudan más dinero están siendo más afectados por el COVID-19.
 
