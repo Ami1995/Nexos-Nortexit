@@ -6,6 +6,6 @@ Los reclamos airados de los gobernadores del norte del país durante la pandemia
 Sin embargo, lo que nos muestran los datos es que estamos frente a una indignación movida más por el berrinche que por la evidencia.
 
 Ahora bien, las entidades sureñas
-aportan más dinero al gobierno federal y son los que más están sufriendo los estragos de la pandemia.
+aportan más dinero al gobierno federal y son las que más están sufriendo los estragos de la pandemia.
 
 Acompáñanos a ver los datos del escrito. 😊
